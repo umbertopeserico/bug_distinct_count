@@ -1,0 +1,2 @@
+class CompositePk < ApplicationRecord
+end
